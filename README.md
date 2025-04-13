@@ -22,23 +22,6 @@ This project demonstrates a hybrid machine learning approach combining Support V
 	•	Pandas
 	•	scikit-learn (PCA, KNN, SVM)
 
-🖼️ Output
-
-Model accuracy and execution time shown in output.jpeg
-
-📁 Files in This Repo
-
-/AI-Project
-│
-├── model.py         - Main training + evaluation script
-├── train.csv        - Input dataset (not included)
-├── output.jpeg      - Screenshot of final results
-└── README.md        - Project documentation (this file)
-
-📦 How to Run
-
-Make sure you have the required packages installed (numpy, pandas, scikit-learn), and that train.csv is in the same folder.
-
 Run the script with:
 
 python model.py
